@@ -1,6 +1,6 @@
 This application assumes the following:
 
-1. The CSV file is already in txt format
+1. The CSV file is already in text format
 2. The data in the file will always be delimited by a comma
 3. The application return all the data fields on the same line once a match has been found
 4. The application is case sensitive and search by an entire word.
