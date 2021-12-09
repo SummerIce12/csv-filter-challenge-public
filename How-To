@@ -1,6 +1,6 @@
-This program can only running it in IDE that supports Java 11 and above.
+This program can only run in IDE that supports Java 11 and above.
 To run this file, the following steps must be completed:
 
 1. Copy and paste the file into Java IDE
-2. Create a csv file named "input.txt" in the same folder as the file.
+2. Create a CSV file named "input.txt" in the same folder as the file.
 3. Run Main
