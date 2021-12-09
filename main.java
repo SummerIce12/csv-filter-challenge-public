@@ -41,7 +41,7 @@ public class Main {
         System.out.println("Please enter the first name, last name, or DOB for the record you are searching for.");
         String input= reader.nextLine();
 
-        while (!input.equalsIgnoreCase("q")){
+        while (!input.equalsIgnoreCase("q")){ //prompt user for input until user terminates the program
             for(List<String> records: storedInfo){
                 if(records.contains(input)){
                     print(records);
